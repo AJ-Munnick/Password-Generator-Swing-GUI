@@ -1,7 +1,7 @@
 # Password Generator Swing GUI
 
 ## Introduction
-Welcome to the Password Generator Swing GUI application! This project is a Java-based desktop application designed to generate secure passwords based on user-defined criteria. The application features a user-friendly interface built using the Swing framework, allowing users to customize password generation settings and view the password history.
+Welcome to the Password Generator Swing Graphical User Interface application! This project is a Java-based desktop application designed to generate secure passwords based on user-defined criteria. The application features a user-friendly interface built using the Swing framework, allowing users to customize password generation settings and view the password history.
 
 ## Features
 - **Password Generation**: Create secure passwords with customizable options, including uppercase letters, lowercase letters, numbers, and symbols.
